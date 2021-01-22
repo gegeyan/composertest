@@ -1,0 +1,15 @@
+{
+    "name": "yxg/composertest",
+    "authors": [
+        {
+            "name": "个个",
+            "email": "yanxg08@163.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"Demo\\":"src/Demo"
+    	}
+    }
+}
