@@ -7,4 +7,9 @@ class Test
     {
         echo 'hello';
     }
+
+    public function addnewfun()
+    {
+        echo 'I am a new fun';
+    }
 }
